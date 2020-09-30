@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ibm.ta</groupId>
   <artifactId>modresorts-10</artifactId>
-  <version>0.1/version>
+  <version>0.1</version>
   <packaging>war</packaging>
 </project>

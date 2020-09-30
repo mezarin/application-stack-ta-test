@@ -87,7 +87,7 @@
                         <version>${version.openliberty-runtime}</version>
                         <type>zip</type>
                     </assemblyArtifact>
-                    <stripVersion>true</stripVersion>
+                    <stripVersion>false</stripVersion>
                     <serverStartTimeout>120</serverStartTimeout>
                     <installAppPackages>dependencies</installAppPackages>
                     <bootstrapProperties>

@@ -10,5 +10,5 @@ Tue Sep 22 17:00:21 IST 2020--><server>
     <!-- <variable name="DERBY_JDBC_DRIVER_PATH" value="${WAS_INSTALL_ROOT}/derby/lib"/> -->
     <variable name="DERBY_JDBC_DRIVER_PATH" value="${shared.config.dir}/lib/global"/>
 <applicationManager autoExpand="true"/>
-    <application id="ModResorts_war" location="modresorts-10.war" name="ModResorts_war" type="war"/>
+    <application id="ModResorts_war" location="modresorts-10-0.1.war" name="ModResorts_war" type="war"/>
 </server>
